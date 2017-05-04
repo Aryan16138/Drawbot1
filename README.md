@@ -1,2 +1,2 @@
-# drawbot
-This is the script for making a drawbot using Raspberry Pi and stepper motors
+# PathMaker
+This python program takes an image given to it and convert it to path with cordinate printed on the screen.
