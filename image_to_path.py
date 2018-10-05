@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 from PIL import Image
-
+# comment
 def checkup(i,j):
 	if i>0 :
 		return True
